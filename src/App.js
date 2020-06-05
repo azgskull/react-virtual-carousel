@@ -22,7 +22,7 @@ export default function App() {
           {...{ initialSlide, slidesList, slideWidth, slideHeight }}
         />
       </div>
-      <p>No extra library used, just Reactjs and plain JS </p>
+      <p>No extra library for virtualization is used</p>
     </div>
   );
 }

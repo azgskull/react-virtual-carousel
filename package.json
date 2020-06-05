@@ -1,7 +1,7 @@
 {
-  "name": "react-window-carousel",
+  "name": "react-virtual-carousel",
   "version": "1.0.0",
-  "description": "Carousel with virtualization",
+  "description": "A prototype of a react virtual carousel",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
